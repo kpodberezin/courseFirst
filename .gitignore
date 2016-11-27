@@ -14,3 +14,21 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 .idea/workspace.xml
 .idea/misc.xml
+.idea/compiler.xml
+.idea/libraries/Gradle__cglib_cglib_nodep_2_1_3.xml
+.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml
+.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml
+.idea/libraries/Gradle__com_google_code_gson_gson_2_3_1.xml
+.idea/libraries/Gradle__commons_io_commons_io_2_4.xml
+.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml
+.idea/libraries/Gradle__io_netty_netty_3_5_7_Final.xml
+.idea/compiler.xml
+.idea/libraries/Gradle__net_java_dev_jna_jna_4_1_0.xml
+.idea/libraries/Gradle__com_google_guava_guava_19_0.xml
+.idea/compiler.xml
+.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml
+.idea/vcs.xml
+.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml
+.idea/modules/addressbook-web-tests_test.iml
+.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml
+*.xml
